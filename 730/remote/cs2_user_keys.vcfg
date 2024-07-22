@@ -1,0 +1,20 @@
+"config"
+{
+	"bindings"
+	{
+		"MOUSE1"		"+attack"
+		"MWHEELUP"		"<unbound>"
+		"MWHEELDOWN"		"+jump"
+		"MOUSE3"		"player_ping"
+		"MOUSE4"		"<unbound>"
+		"a"		"+left"
+		"d"		"+right"
+		"j"		"say .drop"
+		"s"		"+back"
+		"v"		"+jp;+ak"
+		"w"		"+forward"
+		"SPACE"		"+jump"
+		"`"		"toggleconsole"
+		"MOUSE5"		"+voicerecord"
+	}
+}
