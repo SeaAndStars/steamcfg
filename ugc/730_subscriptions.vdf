@@ -1,0 +1,29 @@
+"subscribedfiles"
+{
+	"appid"		"730"
+	"time_last_updated"		"1721626426"
+	"0"
+	{
+		"publishedfileid"		"3288403762"
+		"time_subscribed"		"1721027673"
+		"disabled_locally"		"0"
+	}
+	"1"
+	{
+		"publishedfileid"		"3287578956"
+		"time_subscribed"		"1721027671"
+		"disabled_locally"		"0"
+	}
+	"2"
+	{
+		"publishedfileid"		"3289507717"
+		"time_subscribed"		"1721027667"
+		"disabled_locally"		"0"
+	}
+	"3"
+	{
+		"publishedfileid"		"3070244462"
+		"time_subscribed"		"1700195209"
+		"disabled_locally"		"0"
+	}
+}
